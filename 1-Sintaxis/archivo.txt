@@ -1,0 +1,6 @@
+Este es un archivo de prueba que se llama 'archivo.txt'.
+Aquí estoy tratando de mejorar mi programación en python.
+Estoy enojado, >_<.
+Y aquí estoy feliz otra vez ^-^. 
+From, significa de donde eres:
+algo así como ¿Where are you from ?
